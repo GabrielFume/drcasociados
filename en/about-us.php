@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang=en-US class=no-js>
+
+
+<head>
+    <?php include 'inc/head_common.php'; ?> 
+
+</head>
+
+<body class="home page-template-default page page-id-2039 gdlr-core-body woocommerce-no-js attorna-body attorna-body-front attorna-full  attorna-with-sticky-navigation  attorna-blockquote-style-1 gdlr-core-link-to-lightbox" data-home-url=index.html>
+    
+    <!-- HEADER -->
+    <?php include 'inc/header.php'; ?>
+    <!-- END HEADER -->
+
+            <div class=attorna-page-wrapper id=attorna-page-wrapper>
+                <div class=gdlr-core-page-builder-body>
+                    <div class="gdlr-core-pbf-wrapper " style="padding: 130px 0px 30px 0px;" id=gdlr-core-wrapper-1>
+                        <div class=gdlr-core-pbf-background-wrap>
+                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(../assets/images/equip.jpg) ;background-repeat: no-repeat ;background-position: top center ;" data-parallax-speed=0.2></div>
+                        </div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class=gdlr-core-pbf-element>
+                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" style="padding-bottom: 50px ;">
+                                        <div class="gdlr-core-title-item-title-wrap ">
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 60px ;text-transform: none ;">ABOUT US<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3>
+                                        </div>
+                                        <!-- <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 14px ;font-weight: 700 ;font-style: normal ;letter-spacing: 3px ;text-transform: uppercase ;color: #a8a8a8 ;">Story About Our Firm</span>--></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-wrapper " style="margin: 0px 0px 0px 0px;padding: 0px 40px 0px 40px;">
+                        <div class=gdlr-core-pbf-background-wrap></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom" style="max-width: 1240px ;">
+                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 100px 50px 80px 50px;" data-sync-height=height1 data-sync-height-center>
+                                        <div class=gdlr-core-pbf-background-wrap>
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(../assets/images/equipo.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed=0></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 0px ;">
+                                                    <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
+
+                                                        <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=qL1FZ9PdKeY"><img src=upload/player.png alt width=82 height=82 title=player><!-- <video src="videos/drcasociados.mp4" autoplay title=DRCASOCIADOS></video> --></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-30" id=gdlr-core-column-1>
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 100px 50px 80px 50px;" data-sync-height=height1>
+                                        <div class=gdlr-core-pbf-background-wrap style="background-color: #1b1b1b ;"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 14px ;font-weight: 700 ;font-style: normal ;letter-spacing: 2px ;text-transform: uppercase ;color: #b1976b ;">DRC&amp;ASOCIADOS</span>
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 36px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">We provide expert-level legal services<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
+                                                    <div class=gdlr-core-text-box-item-content style="font-size: 16px ;font-weight: 400 ;text-transform: none ;color: #b4b4b4 ;">
+                                                        <p>DRC &amp; ASOCIADOS highly skilled and knowledgeable attorneys are committed to
+                                                        serving our clients in our practice areas following the highest standards of quality
+                                                        and service to meet even the most demanding client’s needs. Every client matters.
+                                                        Every case matters.</p>
+                                                        <p>To us the success of our law firm is based on building a long-term relationship with
+                                                        our clients that goes beyond outstanding legal solutions to best address our clients’
+                                                        most demanding issues. Our reputation is built on trust and transparency.</p>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" style="padding-bottom: 0px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 11px ;font-weight: 400 ;letter-spacing: 3px ;color: #ffffff ;"> DANIEL ROSALES ATTORNEY DRC&amp;ASOCIADOS<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id=gdlr-core-column-2>
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 100px 50px 80px 50px;" data-sync-height=height2>
+                                        <div class=gdlr-core-pbf-background-wrap style="background-color: #202020 ;"></div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <!-- <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 28px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">Habilidades en DRCAsociados<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3> -->
+                                                    </div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-style: normal ;color: #b4b4b4 ;">In DRC&amp;ASOCIADOS, we ensure that each attorney in our law firm is committed
+                                                    to excellence. Our attorneys have the best legal training to apply the correct law
+                                                    and provide efficient representation after case evaluation to determine best
+                                                    course of action suitable for the particular matter. Our legal team includes top
+                                                    criminal law, anti-money laundering, bank fraud, and tax fraud attorneys
+                                                    from New York.</span></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-30">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " data-sync-height=height2>
+                                        <div class=gdlr-core-pbf-background-wrap>
+                                            <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(../assets/images/equipo_2.jpg) ;background-size: cover ;background-position: center ;" data-parallax-speed=0></div>
+                                        </div>
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-wrapper " style="padding: 80px 0px 30px 0px;">
+                        <div class=gdlr-core-pbf-background-wrap></div>
+                        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 10px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #2c2c2c ;">Mission<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" style="margin-bottom: 40px ;">
+                                                    <div class=gdlr-core-divider-container style="max-width: 38px ;">
+                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #b1976b ;border-bottom-width: 6px ;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-40" style="padding-bottom: 5%;">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
+                                                    <div class=gdlr-core-text-box-item-content style="font-size: 16px ;text-transform: none ;color: #6d6d6d ;">
+                                                        <p>Delivering exclusive legal counsel and representation through excellence in the
+                                                        practice of law by skilled and knowledgeable attorneys with a team approach to
+                                                        provide best solutions and strategies tailored to clients’ needs.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 10px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #2c2c2c ;">Vision<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" style="margin-bottom: 40px ;">
+                                                    <div class=gdlr-core-divider-container style="max-width: 38px ;">
+                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #b1976b ;border-bottom-width: 6px ;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-40" style="padding-bottom: 5%;">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
+                                                    <div class=gdlr-core-text-box-item-content style="font-size: 16px ;text-transform: none ;color: #6d6d6d ;">
+                                                        <p>Being artisans of law while providing quality and unique legal services crafting a
+                                                        solution to every client.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 10px ;">
+                                                    <div class="gdlr-core-title-item-title-wrap ">
+                                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 23px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #2c2c2c ;">Commitment<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align" style="margin-bottom: 40px ;">
+                                                    <div class=gdlr-core-divider-container style="max-width: 38px ;">
+                                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #b1976b ;border-bottom-width: 6px ;border-radius: 3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-column gdlr-core-column-40">
+                                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                            <div class=gdlr-core-pbf-element>
+                                                <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px ;">
+                                                    <div class=gdlr-core-text-box-item-content style="font-size: 16px ;text-transform: none ;color: #6d6d6d ;">
+                                                        <p>Consistently providing outstanding legal services following the highest standards of
+                                                        quality and service by delivering right timely solutions and maintaining information
+                                                        security and privacy, a keystone of our practice.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- FOOTERS -->
+        <?php include 'inc/footer.php'; ?>
+        <?php include 'inc/footer_common.php'; ?>
+        <!-- END FOOTERS -->
+
+</body>
+
+</html>
